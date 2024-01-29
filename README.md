@@ -4,5 +4,5 @@ you'll find there the HTML CSS and Jvascript code of this project so you can che
 
 
 IndexOmeraApp.html ==> is an HTML file
-indexomeraApp.js ==> is a Javascript file
-OmeraApp ==> is a CSS file
+///indexomeraApp.js ==> is a Javascript file
+///OmeraApp ==> is a CSS file
